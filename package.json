@@ -1,0 +1,17 @@
+{
+  "name": "testelastic",
+  "version": "0.0.1",
+  "description": "testing elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stacy Goh <stacy.gohys@gmail.com> (http://imstacy.com)",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.90.0",
+    "body-parser": "^1.17.2",
+    "elasticsearch": "^13.2.0",
+    "uuid": "^3.1.0"
+  }
+}
